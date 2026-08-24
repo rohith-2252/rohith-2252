@@ -131,10 +131,10 @@ public class Rohith {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[AI-Powered CRM System](#)** | React, Vite, Tailwind CSS, Node.js, Express, PostgreSQL, JWT/RBAC, Docker | Integrated Ollama AI, Socket.IO & background jobs for lead scoring, customer insights, sentiment analysis, email generation, and real-time notifications |
-| **[Online Bonafide Request & Management System](#)** | React, React Router, Axios, Node.js, Express.js, JWT, Bcrypt, PostgreSQL | Full request → approval → status tracking → certificate management workflow |
-| **[E-Commerce Platform](#)** | React, Node.js, JWT | Full-stack platform with JWT authentication, reducing unauthorized access and supporting 100+ concurrent users |
-| **[Face Recognition Attendance System](#)** | Python, MySQL | Real-time face recognition backend integrated with MySQL to automate attendance tracking |
+| **[AI-Powered CRM System](https://github.com/rohith-2252/AI-CRM-)** | React, Vite, Tailwind CSS, Node.js, Express, PostgreSQL, JWT/RBAC, Docker | Integrated Ollama AI, Socket.IO & background jobs for lead scoring, customer insights, sentiment analysis, email generation, and real-time notifications |
+| **[Online Bonafide Request & Management System](https://github.com/rohith-2252/bonofide-updation)** | React, React Router, Axios, Node.js, Express.js, JWT, Bcrypt, PostgreSQL | Full request → approval → status tracking → certificate management workflow |
+| **[E-Commerce Platform](https://github.com/rohith-2252/Everest_Ecommerce)** | React, Node.js, JWT | Full-stack platform with JWT authentication, reducing unauthorized access and supporting 100+ concurrent users |
+| **[Face Recognition Attendance System](https://github.com/rohith-2252/FACE-RECOGNIZATION-USING-PYTHON)** | Python, MySQL | Real-time face recognition backend integrated with MySQL to automate attendance tracking |
 
 </div>
 
